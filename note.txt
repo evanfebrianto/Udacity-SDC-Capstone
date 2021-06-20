@@ -1,0 +1,1 @@
+sudo -H pip install --user --upgrade --no-cache-dir -r requirements.txt
